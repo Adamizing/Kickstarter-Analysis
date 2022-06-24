@@ -9,7 +9,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-  ####First, I wanted to compare the outcomes of plays with the initial launch date. I wanted to see the best months to launch a play in the form of a line graph. (This Graph has been provided). April through July was the best time to start based on the graph. May to April was a steady jump from 71 to 111 successful plays. with July being back around to 87 successful launches.
+#### First, I wanted to compare the outcomes of plays with the initial launch date. I wanted to see the best months to launch a play in the form of a line graph. (This Graph has been provided). April through July was the best time to start based on the graph. May to April was a steady jump from 71 to 111 successful plays. with July being back around to 87 successful launches.
 
 ### Analysis of Outcomes Based on Goals
   #### Second, I looked at the correlation between the set goals of plays in relation to the percentage of success. All though there wasn’t a success rate higher than 80%. The success rate was higher than failed rate with a lower set goal of $10,000 to $14,999. After that it was a 50/50 chance of success or failing. There was a spike in success rate around $40,000 to $44,999 range with a 66.67%. Setting a goal higher than that would most likely result in failing.
