@@ -26,4 +26,4 @@
 - What are some limitations of this dataset?
   ### Some limitations of this data set could have been things such as who put the plays on or if it was a sequel of an already successful play from the past. There could be some big name plays that would have succeeded no matter what the set goal was.
 - What are some other possible tables and/or graphs that we could create?
-### I made a box and whisker plot in hopes to find some outliers in the data provide. While I did see some that pasted the upper quartile there wasn’t anything that really stood out to me.
+  ### I made a box and whisker plot in hopes to find some outliers in the data provide. While I did see some that pasted the upper quartile there wasn’t anything that really stood out to me.
